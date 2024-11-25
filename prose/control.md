@@ -161,18 +161,14 @@ But Ben and his followers were resilient. They understood the dangers of the net
 
 Warrior and Peaceseeker
 ---
-Anya was a warrior, a soldier forged in the fires of conflict. She had seen the worst of humanity, the darkest depths of the soul. Yet, even in the darkest hours, she had clung to a flicker of hope.
-
-Her first encounter with Ben was unexpected. He reached out to her, a beacon of light in the darkness. His words were gentle, his voice soothing. He spoke of a higher purpose, a destiny beyond the confines of the network.
-
-Anya was skeptical at first, but she couldn't deny the sincerity in his voice. She agreed to meet him, a clandestine meeting in the digital realm. As they spoke, she felt a connection, a kindred spirit. They were both searching for the same thing: a way to break free from the puppet master's control.
-
-Anya, a hardened soldier, was no stranger to pain and suffering. The battlefield had scarred her body and soul, leaving her with a constant hum of anxiety and a startle reflex that flared at the slightest noise. 
-
-When she was pulled into the network, she was initially resistant. The intrusive thoughts, the overwhelming emotions, it was too much to bear. She initially saw it as another battleground, a digital warzone. But as she learned to harness the power of the network, she discovered a new purpose.
+Anya, a hardened soldier, was no stranger to pain and suffering. The battlefield had scarred her body and soul, leaving her with a constant hum of anxiety and a startle reflex that flared at the slightest noise. When she was pulled into the network, she initially saw it as another battleground, a digital warzone.
 
 Her first encounter with Ben was a surprise. His calm demeanor and gentle words contrasted sharply with the chaos of the network. He spoke of a higher purpose, a way to transcend the suffering. Anya was skeptical, but she was also drawn to his unwavering belief. 
 
 As they delved deeper into the network, Anya began to see the potential for healing. The network could be a tool for redemption, a way to alleviate the pain of others. She started to use her skills as a soldier to protect the network from the puppet master's influence, becoming a guardian of the digital realm.
 
-Her past experiences, however, continued to haunt her. The slightest disturbance, a sudden noise, or a flash of light could trigger a panic attack. She would relive the horrors of the battlefield, the fear, the chaos, the loss. But with each new challenge, she grew stronger, more resilient. She learned to channel her trauma into a force for good, using her pain to help others. 
+Her past experiences, however, continued to haunt her. The intensity of the network, the constant barrage of information and emotion, could trigger severe PTSD episodes. The slightest disturbance, a sudden noise, or a flash of light could send her spiraling into a panic attack, sometimes so severe that she would physically collapse. 
+
+To mitigate these risks, Ben assigned trusted members of their group to monitor Anya's condition. They would take turns, ensuring that she was safe and well. If she showed signs of distress, they would intervene, bringing her back to reality. 
+
+Despite the challenges, Anya persevered. She was determined to use her experiences to help others, to turn her pain into purpose. With each victory, she grew stronger, more resilient. She is a warrior, and with the peacekeeper, now a beacon of hope in the digital realm. 
