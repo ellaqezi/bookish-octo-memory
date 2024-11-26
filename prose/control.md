@@ -1,5 +1,13 @@
 Control
 ===
+[Alex]: #alex-anya-and-ben
+[Anya]: #alex-anya-and-ben
+[Ben]: #alex-anya-and-ben
+[Hidden Queen]: #a-new-chapter
+[The Engineer]: #turn-of-face
+[1]: https://www.reddit.com/r/demoncycle/comments/1bdzxm5/hidden_queen_reviewthoughts_spoilers "a subtle nod to the series The Demon Cycle by Peter V. Brett"
+
+***
 
 Alex, Anya and Ben
 ---
@@ -74,8 +82,6 @@ emerge from the shadows.
 Now, she walks a tightrope, balancing the need for secrecy with the urgent call to action. She manipulates the network 
 subtly, leaving whispers of hope and guidance in the minds of those open to receiving them. Alex, with his unwavering 
 spirit, has become her champion, a beacon of light in the encroaching darkness.
-
-[1]: https://www.reddit.com/r/demoncycle/comments/1bdzxm5/hidden_queen_reviewthoughts_spoilers "a subtle nod to the series The Demon Cycle by Peter V. Brett"
 
 
 Turn of Face
