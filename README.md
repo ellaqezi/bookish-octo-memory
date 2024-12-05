@@ -1,8 +1,10 @@
 bookish-octo-memory
 ===
+[control]: ./prose/control.md
+[revelations]: ./prose/revelations.md
 [rings]: ./poetry/rings.md
-[tex]: ./templates/poems.tex
 [syntax]: https://daringfireball.net/projects/markdown/syntax#p
+[tex]: ./templates/poems.tex
 
 📝 Collection of poetry, prose, writings and scribbles.
 
@@ -10,6 +12,9 @@ Overview
 ---
 * poetry
   * [rings]
+* prose
+  * [control]
+  * [revelations]
 * templates
   * [tex] 
 
@@ -17,3 +22,4 @@ Overview
 Useful links
 ---
 * Markdown [syntax]
+
