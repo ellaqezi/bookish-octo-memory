@@ -1,0 +1,66 @@
+\documentclass[12pt]{book}
+
+\usepackage{verse}
+\PassOptionsToPackage{bookmarks, colorlinks=false, hidelinks}{hyperref}
+% Use PoetryTeX; http://www.ctan.org/pkg/poetrytex
+\usepackage[numberpoems, clearpageafterpoem, useincipits]{poetrytex}
+
+% Use the PA5 paper size
+\usepackage[paperwidth=140mm,paperheight=210mm]{geometry}
+
+\renewcommand{\pttitle}{Rings to the Magical Realm}
+\renewcommand{\ptsubtitle}{A collection of poetry, mostly by people}
+\renewcommand{\ptauthor}{ellaqezi}
+\renewcommand{\ptdate}{2024/11/20}
+\renewcommand{\ptdedication}{Between you and me,\\*this is dedicated to,\\*those who ain't "kami".}
+
+
+\begin{document}
+
+
+    \maketitle
+    \makededication
+
+% Number pages with small roman numerals (i, ii, iii, iv...)
+    \frontmatter
+
+% TOC %
+    \maketoc
+
+% TOP %
+    \renewcommand*{\topname}{Poems} % Name for the table of poems
+    \maketop
+
+    \section{Preface}
+    *A note on the shift in perspective*: I've incorporated both first and third-person perspectives to offer a more
+    nuanced and immersive experience. The first-person perspective allows for a more personal and intimate exploration
+    of the poet's experiences, while the third-person perspective provides a broader, more objective view.
+
+    \newpage
+    \thispagestyle{empty}
+
+% Start numbering pages with normal arabic numerals.
+    \mainmatter
+
+    \begin{poem}{The Link}{ellaqezi}
+
+        \settowidth{\versewidth}{To glimpse the grand design and descend in pure delight.}
+
+        \begin{altverse}
+% Incipits are used in the ToP if no title is given.
+            \incipit{Grandiose webs, neural mystic mazes},\\*
+            Thoughts intertwine in twilight's hazy phases!\\*
+            A symphony of minds, a telepathic trance,\\*
+            The chorus of one soul to a cosmic dance.
+        \end{altverse}
+
+        \begin{altverse}
+            That whisper's touch and knowing glance,\\*
+            Shared perception by psychic chance?\\*
+            A universe of thought, a fleeting flight,\\*
+            To glimpse the grand design and descend in pure delight.
+        \end{altverse}
+
+    \end{poem}
+
+\end{document}
