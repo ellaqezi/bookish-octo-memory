@@ -1,0 +1,18 @@
+repos:
+#    -   repo: https://github.com/markdownlint/markdownlint
+#        rev: v0.13.0
+#        hooks:
+#            -   id: markdownlint
+    -   repo: https://github.com/amperser/proselint
+        rev: 0.14.0
+        hooks:
+            -   id: proselint
+#    -   repo: https://github.com/hukkin/mdformat
+#        rev: 0.7.19
+#        hooks:
+#            -   id: mdformat
+    -   repo: https://github.com/thlorenz/doctoc
+        rev: v2.2.0
+        hooks:
+            -   id: doctoc
+
