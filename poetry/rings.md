@@ -1,13 +1,14 @@
 # Rings
 
-This is an exploration of AI-aided creativity.\
+*This is an exploration of AI-aided creativity.*
+
 Thanks to my (shadow) co-writer [Gemini] for being a sport. Sparring with you taught me a few
 prompt formulations that would otherwise not occur to me. See an excerpt from our early exchanges below.
 
 > **A note on the shift in perspective:** I've incorporated both first and third-person perspectives to offer a more nuanced and immersive experience. The first-person perspective allows for a more personal and intimate exploration of the poet's experiences, while the third-person perspective provides a broader, more objective view.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Poem 1: Summit and Bay
 
 - [Poem 1: Summit and Bay](#poem-1-summit-and-bay)
 - [Poem 2: The Link](#poem-2-the-link)
@@ -19,6 +20,7 @@ prompt formulations that would otherwise not occur to me. See an excerpt from ou
 - [Poem 8: The Learnings of the Soul](#poem-8-the-learnings-of-the-soul)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Poem 1: Summit and Bay
 
 Blank canvas, a mind, once serene and bright,\

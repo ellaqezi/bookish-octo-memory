@@ -1,7 +1,8 @@
 # Revelations
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Motivations for Maintaining the Connection
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Motivations for Maintaining the Connection](#motivations-for-maintaining-the-connection)
 - [Intertwined rings of control](#intertwined-rings-of-control)
@@ -9,6 +10,7 @@
 - [Key Points from Our Collaboration](#key-points-from-our-collaboration)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Motivations for Maintaining the Connection
 
 The motivations for maintaining the telepathic link, either intrinsically or by external force, are complex and
